@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/HotelsClone/static/css/main.3bb89069.css",
+    "main.js": "/HotelsClone/static/js/main.5254d0c4.js",
+    "static/js/787.92326e93.chunk.js": "/HotelsClone/static/js/787.92326e93.chunk.js",
+    "static/media/lines.PNG": "/HotelsClone/static/media/lines.1adf9f1c9318eb1f374e.PNG",
+    "static/media/1000_F_86726775_CRV87x1nBqFslFF9YntTfbDUJPFMmfAo-removebg-preview.png": "/HotelsClone/static/media/1000_F_86726775_CRV87x1nBqFslFF9YntTfbDUJPFMmfAo-removebg-preview.956497d5ef847cfbda3f.png",
+    "static/media/BodoniStd-BookItalic.otf": "/HotelsClone/static/media/BodoniStd-BookItalic.51c26331051f56c6241b.otf",
+    "static/media/logo.svg": "/HotelsClone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/HotelsClone/index.html",
+    "main.3bb89069.css.map": "/HotelsClone/static/css/main.3bb89069.css.map",
+    "main.5254d0c4.js.map": "/HotelsClone/static/js/main.5254d0c4.js.map",
+    "787.92326e93.chunk.js.map": "/HotelsClone/static/js/787.92326e93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bb89069.css",
+    "static/js/main.5254d0c4.js"
+  ]
+}
