@@ -1,0 +1,89 @@
+
+
+  * {
+      
+      margin: 0;
+      padding: 0;
+  
+    }
+  .main{
+      display: flex;
+      
+  }
+  .destination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .destination h1{
+    font-size: 65px;
+    color: rgb(119,50,139);
+      font-family: serif; 
+      font-style: italic; 
+      font-weight: 100;
+  }
+  .dropdown{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  .card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+
+  }
+  .shadow{
+    width: 400px;
+    height: 500px;
+    box-shadow: 4px 4px 8px rgba(8, 8, 8, 0.2);
+    position: absolute;
+    right: 4rem;
+    top: 3rem;
+    background-color: white;
+
+  }
+
+  .headings{
+    margin-top: 5rem;
+    margin-left: 2rem;
+
+  }
+.headings h1{
+ 
+  font-size: 30px;
+  color: rgb(119,50,139);
+  font-family: serif; 
+  font-style: italic; 
+  font-weight: 100;
+  
+}
+.headings p{
+  font-size: 19px;
+  color: rgb(134, 132, 132);
+  font-family: serif; 
+  max-width: 280px;
+  margin-top: 3rem;
+  font-weight: 100;
+}
+.button{
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: 1rem;
+  width:150px;
+  height: 50px;
+  background-color:rgb(37,39,118);
+}
+.button h2{
+  font-size: 18px;
+  color: rgb(247, 247, 247);
+  font-family: serif; 
+  font-weight: 100;
+  font-style: italic; 
+  display: flex;
+  margin-top: 1rem;
+  margin-left: 1rem;
+}

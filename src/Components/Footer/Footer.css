@@ -1,0 +1,54 @@
+* {
+      
+    margin: 0;
+    padding: 0;
+    
+
+  }
+.main{
+    display: flex;
+
+    
+}
+
+.container1{
+    margin-top: 2rem;
+    display: flex;
+    margin-left: 2rem;
+}
+
+.container1 h1{
+    font-size: 27px;
+    color: rgb(119,50,139);
+    font-family: serif; 
+    font-style: italic; 
+    font-weight:100;
+    padding-top: 2rem;
+}
+.container1 p{
+
+    color: rgb(189,189,189);
+    padding-top: 1rem;
+}
+.paragraph1{
+
+    color: rgb(189,189,189);
+    font-size: 13px;
+    max-width: 450px;
+
+}
+.sender{
+    margin-top: 2rem;
+}
+.section{
+    width:30%;
+}
+.icons{
+    margin-top: 1.5rem;
+   display: flex;
+   /* justify-content: space-between; */
+}
+.icon{
+    padding: 0 10px;
+    color:  rgb(189,189,189);
+}

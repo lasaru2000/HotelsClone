@@ -1,0 +1,102 @@
+
+
+* {
+    
+    margin: 0;
+    padding: 0;
+
+  }
+.main{
+    display: flex;
+    
+
+   
+}
+.header1{
+    margin-top: 0;
+    display: flex;
+}
+.header2 {
+  display: flex;
+  background-color: rgb(51, 51, 51);
+  height: 40px;
+}
+
+.header2 h1 {
+  padding-left: 30px;
+  font-size: 15px;
+  color: white;
+}
+
+.outlined {
+
+
+  margin-left: 5rem;
+  font-size: 5px;
+  margin-top: 0.4rem;
+}
+
+
+
+.logo{
+    padding-left: 3rem;
+}
+.links{
+    padding-left: 30rem;
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 8px;
+    align-items: center;
+
+}
+.links h1 {
+    margin: 0; /* Remove default margin */
+    padding: 10px; /* Add some padding for spacing */
+  }
+  
+  .links h1:not(:last-child)::after {
+    content: "";
+    width: 1px;
+    height: 80%; /* Adjust the height of the line */
+    background-color: #000; /* Adjust the color of the line */
+    margin: 0 2px; /* Adjust the spacing between line and text */
+  }
+.link-item {
+    display: flex;
+}
+.menu{
+  display: flex;
+  background-color:rgb(183,179,170);
+  height: 4rem;
+}
+
+.menubox{
+  background-color: #f7f4f4;
+  width: 350px;
+  height: 50px;
+  border-radius: 5px;
+  margin-top: 0.5rem;
+  margin-left: 0.6rem;
+}
+
+.menubox1 {
+  background-color: rgb(135, 106, 32);
+  width: 130px;
+  height: 50px;
+  border-radius: 5px;
+  margin-top: 0.5rem;
+  margin-left: 1.5rem;
+  transition: background-color 0.3s; /* Adding transition for smooth color change */
+}
+
+.menubox1:hover {
+  background-color: rgb(175, 146, 72); /* Lighter color for hover state */
+}
+
+.menubox1 h1{
+  color: white;
+  font-family: sans-serif;
+  font-size: 15px;
+  margin-top: 1rem;
+  margin-left: 2.4rem;
+}
